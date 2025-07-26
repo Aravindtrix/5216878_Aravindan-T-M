@@ -16,7 +16,7 @@ This repository was created to demonstrate Git proficiency through:
 
 Below is my Git course completion certificate:
 
-![Certificate](Git Certificate.jpg)
+(git certificate.jpg)
 
 > 🎓 Successfully completed Git Fundamentals and Hands-On Practice
 
