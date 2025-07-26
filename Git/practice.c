@@ -32,5 +32,11 @@ int main() {
     printf("Program ended.\n");
     return 0;
 }
-
-
+int sum_of_digits(int num) {
+    int sum = 0;
+    while (num > 0) {
+        sum += num % 10;
+        num /= 10;
+    }
+    return sum;
+}
