@@ -42,4 +42,3 @@ int reverse_number(int num) {
     }
     return reversed;
 }
-
