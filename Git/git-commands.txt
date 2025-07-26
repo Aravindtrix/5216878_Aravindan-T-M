@@ -1,0 +1,177 @@
+    1  git config --list
+    2  git config --global user.name "AravindTrix"
+    3  git config --list
+    4  cd clone https://github.com/Aravindtrix/5216878_Aravindan-T-M.git
+    5  git clone https://github.com/Aravindtrix/5216878_Aravindan-T-M.git
+   12  git config --list
+   15  git init
+   17  git add practice.md
+   18  git commit -m "practice session"
+   19  git config --global user.name "AravindTrix"
+   20  git commit -m "practice session"
+   21  git config --global user.email "aravindtrix@gmail.com"
+   22  git commit -m "practice session"
+   23  git remote add origin https://github.com/Aravindtrix/5216878_Aravindan-T-M.git
+   24  git branch -M main
+   25  git push -u origin main
+   26  git add.
+   27  git --help
+   28  git push
+   29  git log
+   30  git status
+   31  git push -u orgin main
+   32  git push -u origin main
+   33  git pull --rebase origin main
+   34  git push origin main
+   35  git log
+   36  git status
+   37  git fetch
+   38  git add Test.c
+   39  git fetch
+   40  git pull
+   41  git add Test.c
+   42  git . 
+   43  git.
+   44  git --help
+   45  git add Test.c
+   46  git add Test.c.txt
+   47  git commit -m " Added Test.c file"
+   48  git push origin main
+   49  git fetch
+   50  git push origin main
+   51  git pull --rebase origin main
+   52  git push origin main
+   53  git push origin main
+   54  git push origin main
+   55  git push origin main
+   56  git push origin main
+   57  git commit -m "added ss"
+   58  git add.
+   59  git add .
+   60  git commit -m "added ss"
+   61  git push origin main
+   62  [200~git fetch origin
+   63  git checkout feature1
+   64  git fetch origin
+   65  git checkout feature1
+   66  git checkout -b feature2
+   67  git branch
+   70  git add test.c
+   71  git commit -m "Add initial test.c"
+   72  git checkout -b feature1
+   74  git add test.c
+   75  git commit -m "Added code in feature1"
+   77  git add test.c
+   78  git commit -m "Added code in feature2"
+   79  git checkout main
+   80  git checkout -b feature1
+   82  git add test.c
+   83  git commit -m "Added code in feature1"
+   84  git checkout main
+   85  git merge feauture1
+   86  git merge feauture2
+   87  git push origin main
+   88  git push origin feature1
+   89  git push origin feature2
+   90  git push
+   91  git add .
+   92  git commit -test.c
+   93  git commit - test.c "added test"
+   94  git add test.c
+   95  git commit -m "added test.c with hello"
+   96  git push origin main
+   97  git push origin feature1
+   98  git status
+   99  git add .
+  100  git fetch
+  101  git commit -m "added ss"
+  102  git push origin main
+  103  mkdir git-practice
+  104  cd git-practice
+  105  git init
+  106  git add practice.c
+  110  git add practice.c
+  111  git commit -m "add practice.c with factorial logic"
+  112  git branch
+  113  git branch -a
+  114  git checkout feature1
+  115  git checkout feature2
+  116  git checkout main
+  117  git checkout feature1
+  118  git checkout feature1
+  119  git add .
+  120  git commit -m "added practice.c"
+  121  git checkout feature1
+  123  git add practice.c
+  124  git commit -m "add sum of digits in feature1"
+  125  git checkout feature2
+  127  git add practice.c
+  128  git commit -m "add reverse number in feature2"
+  129  git status
+  130  git diff practice.c
+  132  git stash
+  133  git stash pop
+  134  git stash drop
+  135  git checkout feature2
+  136  git rebase main
+  137  git status
+  138  git diff
+  139  git add practice.c
+  140  git commit -m "temp change before rebase"
+  141  git rebase main
+  142  git add Git/test.c
+  143  git add test.c
+  144  git rebase --continue
+  145  git config --global core.editor "nano"
+  146  git rebase --continue
+  147  git add test.c
+  148  git rebase --continue
+  149  git status
+  150  git log --oneline --graph --decorate
+  151  git rebase main
+  152  git status
+  153  git add test.c
+  154  git rebase --continue
+  155  git status
+  156  git rebase --abort
+  157  git status
+  158  git status
+  159  git add .
+  160  git commit -m "deleted test.c"
+  161  git rebase main
+  162  git add .
+  163  git rebase --abort
+  164  git checkout main
+  165  git add .
+  166  git commit -m "deleted test.c in main"
+  167  git checkout feature2
+  168  git rebase main
+  169  git add practice.c
+  170  git rebase --continue
+  171  git add practice.c
+  172  git rebase --continue
+  173  git status
+  174  git log
+  175  git checkout main
+  176  git merge feature1 -m "Merged feature1 into main"
+  177  git add practice.c
+  178  git merge feature1 -m "Merged feature1 into main"
+  179  git commit -m "changes in practice.c"
+  180  git merge feature1 -m "Merged feature1 into main"
+  181  git tag -a v1.0 -m "First release after merging feature1 and feature2"
+  182  git push origin main
+  183  git push origin feature1
+  184  git push origin feature2
+  185  git pull
+  186  git push origin feature2
+  187  git pull origin feature2
+  188  git push origin feature2
+  189  git push origin feature2 --force
+  190  git push origin --tags
+  191  git log --oneline --graph --all --decorate
+  192  git reset HEAD practice.c
+  193  echo "*.log" > .gitignore
+  194  git add .gitignore
+  195  git commit -m "Add .gitignore to ignore files"
+  196  git reflog
+  198  history | grep git > git-commands.txt
