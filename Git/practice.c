@@ -28,8 +28,6 @@ int main() {
     } else {
         printf("Factorial of %d is %d\n", input, fact);
     }
-
-    printf("Git practice session complete.\n");
     return 0;
 }
 int sum_of_digits(int num) {
