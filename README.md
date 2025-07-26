@@ -1,20 +1,19 @@
 # 5216878_Aravindan-T-M
+# 🎓 Course Completion
 
-# Git Practice Repository
-
-This repository was created to demonstrate Git proficiency through:
-
-- Branching (`feature1`, `feature2`)
-- Rebasing, Merging
-- Conflict resolution
-- Stashing, Tagging
-- Commit history cleanup
+This repository demonstrates completion of the following modules.
 
 ---
 
-## course Completion Certificate
+## 📘 Module 1: Applied SDLC, Agile & Testing Methodology
 
-Below is my Git course completion certificate:
+<img width="1918" height="867" alt="SDLC,Agile and testing" src="https://github.com/user-attachments/assets/06d3d6f7-f796-4f9f-9b82-bab1acaf34e3" />
+]()
+
+---
+
+## 🛠️ Module 2: Collaboration and Source Code Management with Git
+
 
 ![git certificate](https://github.com/user-attachments/assets/319ec8d4-434e-4bf3-8d76-6445c5118b31)
 
