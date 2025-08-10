@@ -43,7 +43,21 @@ This repository demonstrates completion of the following modules.
 
 ---
 
+## 🛠️ Module 3: Essentials of C Programming
+
+![Introduction to C  5216878_Aravindan T M](https://github.com/user-attachments/assets/c5cdb9c6-d7e6-4f21-814c-d7c58509acaf)
+
+> 🎓 Successfully completed Introduction to C
+
+
+![C Intermediate 5216878_Aravindan T M](https://github.com/user-attachments/assets/1b4140c5-43f7-48c9-b900-5be539df98a4)
+
+> 🎓 Successfully completed C Intermediate
+
+
 ## Author
 
 - Aravindan T M  
 - Repo: [5216878_Aravindan-T-M](https://github.com/Aravindtrix/5216878_Aravindan-T-M)
+
+---
